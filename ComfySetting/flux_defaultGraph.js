@@ -315,7 +315,7 @@ const defaultGraph = {
         "text": ""
       },
       "widgets_values": [
-        "Flux text - to - img workflow\n\nComfyUI Colab:\n- Creator: stablediffusion.vn\n- Website: sdvn.me | comfy.vn | fluxai.vn\n- Sub Web: trainlora.vn | shakker.vn\n- Document: bit.ly/sdvn-lib\n- Skills training: hungdiffusion.com"
+        "Flux text - to - img workflow"
       ],
       "color": "#432",
       "bgcolor": "#653"
