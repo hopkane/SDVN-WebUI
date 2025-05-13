@@ -1,2 +1,2 @@
 # SDVN-WebUI
-StableDiffusion.VN
+COMFYUI
