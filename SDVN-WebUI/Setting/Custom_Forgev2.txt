@@ -1,1 +1,0 @@
-https://github.com/zanllp/sd-webui-infinite-image-browsing

@@ -1,2 +1,0 @@
-# SDVN-WebUI
-StableDiffusion.VN
